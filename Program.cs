@@ -8,6 +8,8 @@
         }
 
         //GalimyanovaIV Am-1-25
+
+        //solve task3
     }
-    //65764767
+    
 }
